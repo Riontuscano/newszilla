@@ -20,6 +20,7 @@ export class News extends Component {
   }
 
   pageMain = async () => {
+    if (this.state.loading) return;
     this.props.setProgress(5);
     let url = `https://newsapi.org/v2/everything?q=${this.props.category}&apiKey=${this.props.apikey}&pagesize=${this.props.pageSize}`;
     this.setState({ loading: true });
@@ -31,28 +32,10 @@ export class News extends Component {
     this.props.setProgress(100);
   }
 
-  handlenext = () => {
-    if (!(this.state.page + 1 > Math.ceil(this.state.totalResult / this.props.pageSize))) {
-      let url = `https://newsapi.org/v2/everything?q=${this.props.category}&apiKey=${this.props.apikey}&pagesize=${this.props.pageSize}&page=${this.state.page + 1}`;
-      this.setState({ loading: true });
-      this.pageMain(url);
-      this.setState({ page: this.state.page + 1 });
-    }
-  };
-
-  handleprev = () => {
-    let url = `https://newsapi.org/v2/everything?q=${this.props.category}&apiKey=${this.props.apikey}&pagesize=${this.props.pageSize}&page=${this.state.page - 1}`;
-    this.setState({ loading: true });
-    this.pageMain(url);
-    this.setState({ page: this.state.page - 1 });
-  };
-
   componentDidMount() {
-  
     this.pageMain();
- 
-
   }
+  
 
   fetchMoreData = async () => {
     this.setState({page:this.state.page + 1})
