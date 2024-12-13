@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 48,
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Forbes",
+      "title": "FBI Warns iPhone, Android Users—Change WhatsApp, Facebook Messenger, Signal Apps - Forbes",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVHhuYldCTUV1eU0tQ1pDa3RTYnpEMGh5OWI4cWZwcThfVlV1aUpmRF95Qnp4c2tydFZUWG5PdTBIVzdBcDBwOE9YZnpfVXJHSXZnRzctcDhJVVFvakN4eHRYTnVYXzY5LXR0djZCTDk4aWJZNGZFZXR3STQ3RWJpSFBCTE1iMlgyLVVYaExOY3lkSjU3ZTB1emg1SXpSMVRtNlRMQk4xMEozQUppamxyWUpXamJlLUlON2tjekVLMllodC1nYjIxaQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-12-11T05:29:44Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Erin Hale",
+      "title": "Google pulls bad McDonald’s reviews after Luigi Mangione’s arrest - Al Jazeera English",
+      "description": "Internet users flood outlet with bad reviews after tip-off leads to arrest of suspect in UnitedHealthcare CEO’s killing.",
+      "url": "https://www.aljazeera.com/news/2024/12/11/google-pulls-bad-mcdonalds-reviews-after-luigi-mangiones-arrest",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/12/RC2LMBAE1UPI-1733884424.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-12-11T04:18:45Z",
+      "content": "Google has pulled a flood of bad reviews about the McDonalds restaurant where police arrested Luigi Mangione, the suspect charged in the killing of UnitedHealthcare CEO Brian Thompson.\r\nInternet user… [+2528 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters",
+      "title": "Google parent Alphabet jumps on quantum chip breakthrough - Reuters",
+      "description": "Shares of Google parent Alphabet rose about 5% on Tuesday after it unveiled a new generation chip that the company said helped overcome a key challenge in quantum computing.",
+      "url": "https://www.reuters.com/technology/google-parent-alphabet-jumps-quantum-chip-breakthrough-2024-12-10/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/QXXBIQB6XVNUJEAFWJ2AHKTRIQ.jpg?auth=ce9be4b986af84e812ec64cee771b9e42d6b772b22b1436193e676966a6ea6c1&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-12-11T02:24:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "TechCrunch",
+      "title": "Cruise employees ‘blindsided’ by GM’s plan to end robotaxi program - TechCrunch",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTTdsM0hJaFZCTmNTSXZaWHdCNFp4c2VlVElNcnQxUHNXc2NmX0VrU1VndnBTVm5nMjUyUXY1ckg2X2NUaGEtZFVnWnk0VDZPc2pTVTlXNDlDNmdCWENZNm4tNHRHTlJlbnVacjZ0bTc1eTRTSWd5UGpFbG1VYlV0YW0zblpqN09mSFlYY1BpWTR0cXVmT0ljZG9HcHl1b1E?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-12-11T02:11:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Fortune",
+      "title": "‘Most powerful woman on Wall Street’ Sallie Krawcheck steps down as Ellevest CEO following a recent diagnosis - Fortune",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbjVWSWpJM1lXanJBRE1LTU5EemdEYjdJV1otbGZIYmpzMVJoTHNxWGthZk9xdlVseE15eEFyYzdzLWlJTGN6emRKNmtaUHRNNzRGcncxeXhpd0s2X0Fmc1EtbUJTc2I1MzlrNktZQmtYeGg5M0dfS1JPZlc1Q2ZYWk9OR0dEYnVDQkI2akF0TzQ1YWtZdkVkS2JhMGFsTklHdS1LYlpVUmpCTHpRUUs5WnhBYw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-12-10T23:55:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-12-10T22:50:44Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Investopedia",
+      "title": "S&P 500 Gains and Losses Today: Walgreens Pops Following Reports of Buyout Talks - Investopedia",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUFJNWllwd0VlZW1oa3JyZTJYd3BJT1RCUHFDaEl6bklSb1JRVTRhdWsyMThneXdlaUFfaElLcGFNY1NtRjJ0UUYzbHE2SEg3b1RSYmVrQjdXa2d1SWk0WFdPZVhqLWlJMF82OXVnaUZQbkp2M01YSXc2WmUzREZCRzVJSEVBRVc1SFlLT3BhSFY3X2N5RlR2TGthajVNaktISVJlU1JlenJuX1dmTWhSaTBYMGhDc1k0YzFOYQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-12-10T22:35:13Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Investor Relations | Gamestop Corp.",
+      "title": "GameStop Discloses Third Quarter 2024 Results - Investor Relations | Gamestop Corp.",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcDBKekFRQlZHU2d4dUd2UGNscHBhSldMdEc3WEs4U3ZpaHAzWno1SkxpeEExOEgtaHcyTml5TVNPTFhQMjhTQnVRNTZfSUFBOHN5WFJSRk04Y0hlNmJhNGQtNzdkeWkxbHN4RmVaMEJoSWpWQzRiYkYzZHJWai11MHFqTnc4VE0tQ3BENEM3TDdQcXI2dExmamw0YUF4dkd5RGI2RFJyODI1RUNHWmc?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-12-10T21:21:15Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Investor's Business Daily",
+      "title": "Stock Market Today: Dow Jones Falls As Nvidia Breaks Key Level On Taiwan Semi Report (Live Coverage) - Investor's Business Daily",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQkR2YXVaY0NnVmV2MmpTa2F5aHlSYVRfaXNrSl9FT3dNcEUxS3lGRU9vNWJDMVhDS0VQMUpHeW84Yk81OV9Ed1kzTjFsQ3hZTFFFR3lta25HLW1HT21ZeHZjUWo2eGtZRUJ5UHJsWGxFaThzOWdNakZ2Vl9DeEQzWGw4ekNadlVrSHZ6VkJEVFVWYmtCWnM0YjFxQ1k4eVREaUZ5WUxKZWI4RG1qcmZ0UVJuUFVtWm4wRnBoc0VhRm02M0tmY1E?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-12-10T21:18:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheStreet"
+      },
+      "author": "Silin Chen",
+      "title": "Here's what a veteran trader who forecast Palantir's stock rally says now - TheStreet",
+      "description": "This is what could happen next to Palantir shares.",
+      "url": "https://www.thestreet.com/investing/stocks/heres-what-a-veteran-trader-who-forecast-palantirs-stock-rally-says-now",
+      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjA2MjcwMjQ1NjU1MDI5NTIz/_alex-karp_kl.jpg",
+      "publishedAt": "2024-12-10T20:15:20Z",
+      "content": "The name Palantir (PLTR)  was inspired by \"The Lord of the Rings,\" where the magical palantíri were \"seeing stones\" that enabled users to view events across vast distances.\r\nThe name hints at what Pa… [+4667 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Investopedia",
+      "title": "Tesla Stock Hits Three-Year High as Morgan Stanley Lifts Price Target - Investopedia",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY3hvc1dfM0piajZYQWIxTk9taEpIZFVETUQxbXZLSXpmWHlPaWIzX2lHY3hUV1BqcUdtUlFtbHFhRVlVdHN5ZXhSai1zSDZRSHRGaHVUTnNhTGotbjBQRkpaUjhLRVh2bzJ3SzNXWWlhUWpHZ0xSQldiM2h5QWRMQldiNkhwekRWMm04ZE1oS3BtSS05LTdsTDF0Wk9rZDBCN19oLVV3?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-12-10T20:00:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jonathan M. Gitlin",
+      "title": "Amazon starts selling Hyundai cars, more brands next year - Ars Technica",
+      "description": "Amazon Autos has gone live in 48 US cities.",
+      "url": "https://arstechnica.com/cars/2024/12/amazon-gets-into-the-car-sales-game-starting-with-hyundai/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/hero001-aboutamazon-hyundai-autos-amazon-autos-pr-blog-hero-2000x1125a-2000x1127-1-1152x648-1733856477.jpg",
+      "publishedAt": "2024-12-10T19:20:33Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "David J. Lynch, Jeff Stein",
+      "title": "Impasse deepens over U.S. Steel takeover as government review nears end - The Washington Post",
+      "description": "Face-to-face talks between Nippon Steel and the United Steelworkers union failed to close the gap over the Japanese company’s proposed acquisition of U.S. Steel.",
+      "url": "https://www.washingtonpost.com/business/2024/12/10/nippon-union-us-steel/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M27MG7MFUS5Q7X2V6GGVXNKTZI.jpg&w=1440",
+      "publishedAt": "2024-12-10T19:00:00Z",
+      "content": "Face-to-face talks between Nippon Steel and the United Steelworkers union failed to close the gap over the Japanese companys proposed acquisition of U.S. Steel as a government review of the political… [+4101 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Washington Post",
+      "title": "An AI companion suggested he kill his parents. Now his mom is suing. - The Washington Post",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQXFBMGlhUW0za1otTFNTMWpWbnBuMHFkblhfZDZ0bWhWckF0ZnBPLTBNVjZXWWZnWlgwSkdWYXVYcnpBVm11TUk5dVF2NGpjSEltVlRpcFBEWkVocm13eTBLenRSbXFTTld1SjdHQ2k0bkF5NzFiUDFRcTZZQV9xcUpodEI2VVowRmRabmVDRDZONl8xYkhNaXlMeVo4cEU?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-12-10T18:00:46Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Barron's",
+      "title": "Boeing Stock Is Taking Off. Here’s Why. - Barron's",
+      "description": null,
+      "url": "https://www.barrons.com/articles/boeing-stock-max-jet-production-90582e7d",
+      "urlToImage": null,
+      "publishedAt": "2024-12-10T17:27:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "author": "Tristan Greene",
+      "title": "Microsoft shareholders vote ‘no’ on Bitcoin reserve - Cointelegraph",
+      "description": "Microsoft shareholders voted no on a resolution to add Bitcoin to the company’s asset holdings. The resolution was drafted by the National Center for Public Policy Research, a think tank that’s also pushing for Amazon to add Bitcoin to its balance.",
+      "url": "https://cointelegraph.com/news/microsoft-shareholders-vote-no-bitcoin-reserve",
+      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2024-12/0193b153-bf7f-754a-a6f5-23742e3e75a2",
+      "publishedAt": "2024-12-10T17:17:11Z",
+      "content": "Microsoft shareholders voted against a resolution to add Bitcoin (BTC) to the companys balance sheets during the firms annual meeting on Dec. 10. \r\nThe National Center for Public Policy Research (NCP… [+3840 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Energy.gov"
+      },
+      "author": null,
+      "title": "Biden-Harris Administration Announces Contracts to Buy U.S.-Sourced Low Enriched Uranium - Energy.gov",
+      "description": "Selected companies to expand U.S. enrichment and conversion services",
+      "url": "https://www.energy.gov/ne/articles/biden-harris-administration-announces-contracts-buy-us-sourced-low-enriched-uranium",
+      "urlToImage": "https://www.energy.gov/sites/default/files/2024-12/Untitled%20design%20%281%29.png",
+      "publishedAt": "2024-12-10T17:02:51Z",
+      "content": "WASHINGTON, D.C. As part of the Biden-Harris Administrations Investing in America agenda, the U.S. Department of Energy (DOE) today selected 6 companies from which it can sign contracts to procure lo… [+1865 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "TipRanks",
+      "title": "Oracle’s (ORCL) Disappointing Results Prompts a Wave of Analyst Reactions - TipRanks",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa2FLcDJLNlBScTczalRGYTdkeXRkS2cycVVvc29EUG9udUdTRmpxTUM3dXlUNXF2SGpZU3NnUEdvZXdocF9FaGsyV2N5eTVHamR0bU1tQ2w1N1YtZ0xpQjRYUWtja2VVZDdhR0xWc05YdHdCVm85SkZHaWVzcVBaS2dvOG0tWlZvdjhpU3dKTUU4Y3VucktFZEYwSENGSmNCeFE?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-12-10T17:02:40Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "David Shepardson",
+      "title": "US finalizes $6.1 bln Micron chip-making subsidy - Reuters",
+      "description": "The U.S. Commerce Department said on Tuesday it had finalized a $6.165 billion government subsidy for Micron Technology to produce semiconductors in New York and Idaho.",
+      "url": "https://www.reuters.com/technology/us-finalizes-more-than-61-bln-chips-subsidy-micron-technology-2024-12-10/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/ZV5TRPDKTJPUPFX4L2E5TZCA2M.jpg?auth=d87d159fa9727ab808456e7d03533cc8c7249c36c30067f339ce72f6a39895ce&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-12-10T16:57:12Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investopedia"
+      },
+      "author": "Bill McColl",
+      "title": "C3.ai Stock Volatile as CEO Puts Some Shares for Sale, Offsetting Strong Results - Investopedia",
+      "description": "A regulatory filing showed C3.ai founder and CEO Thomas Siebel was selling 12.78 million shares of the artificial intelligence software company",
+      "url": "https://www.investopedia.com/c3-ai-stock-volatile-as-ceo-puts-some-shares-for-sale-offsetting-strong-results-8758782",
+      "urlToImage": "https://www.investopedia.com/thmb/KgF27Cub6xdSgHwLzIfsrFTc00k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1831288560-1a2bdd07945244b0a9878b30f40b7fe5.jpg",
+      "publishedAt": "2024-12-10T16:56:27Z",
+      "content": "<ul><li>A regulatory filing showed C3.ai founder and CEO Thomas Siebel was selling 12.78 million of the artificial intelligence software company's shares.</li><li>The news made trading in the company… [+1994 chars]"
+    }
+  ]
+}
