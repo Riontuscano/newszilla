@@ -1,9 +1,9 @@
-import React, { Component } from "react";
+import React from "react";
 
-export class Newsitem extends Component {
+const Newsitem = (props) => {
  
-  render() {
-    const { title, description, imgurl, newurl, mode, date ,author} = this.props;
+
+    const { title, description, imgurl, newurl, mode, date ,author} = props;
    
     const style = {
       color: mode === "dark" ? "#fff" : "#001121",
@@ -43,6 +43,6 @@ export class Newsitem extends Component {
       </div>
     );
   }
-}
+
 
 export default Newsitem;

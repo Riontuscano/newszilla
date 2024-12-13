@@ -1,8 +1,7 @@
-import React, { Component } from 'react'
+import React from 'react'
 import Loader from '../assets/loader2.gif'
 
-export class Spinner extends Component {
-  render() {
+const Spinner = () => {
     let style = {
       width:"70px",
       height:"70px"
@@ -13,7 +12,7 @@ export class Spinner extends Component {
         
       </div>
     )
-  }
+
 }
 
 export default Spinner
