@@ -39,8 +39,8 @@ NewsZilla is a modern news website built with React that provides an infinite sc
 - Click on any news article to read the full story.
 
 ## Screenshot
-![NewsZilla Screenshot](Output1.png)
-![NewsZilla Screenshot](Output2.png)
+![NewsZilla Screenshot](https://github.com/Riontuscano/newszilla/blob/main/public/Output1.png)
+![NewsZilla Screenshot](https://github.com/Riontuscano/newszilla/blob/main/public/Output2.png)
 
 ## License
 This project is open-source and available under the MIT License.
