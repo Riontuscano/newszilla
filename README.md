@@ -1,7 +1,5 @@
 # NewsZilla
 
-![NewsZilla Banner](https://via.placeholder.com/1000x300?text=NewsZilla)
-
 NewsZilla is a modern news website built with React that provides an infinite scrolling experience, fetching the latest news dynamically using the News API.
 
 ## Features
