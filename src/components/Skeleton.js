@@ -7,27 +7,19 @@ const NewsitemSkeleton = ({ mode, count = 6 }) => {
     color: mode === "dark" ? "#fff" : "#001121",
     backgroundColor: mode === "dark" ? "#001121" : "#fff",
     border: mode === "dark" ? "1px solid white" : "1px solid #001121",
-    width: "18rem",
+    width: "20em",
     height: "430px",
     margin: "20px",
   };
 
   const imgstyle = {
-    width: "17.8rem",
+    width: "19.9rem",
     height: "200px",
   };
 
-  // Configure skeleton theme based on mode
   const skeletonBaseColor = mode === "dark" ? "#0d2235" : "#e0e0e0";
   const skeletonHighlightColor = mode === "dark" ? "#1a3b5a" : "#f5f5f5";
 
-  // Create container style to display items in a grid or flex layout
-  const containerStyle = {
-    display: "grid",
-    gridTemplateColumns: "repeat(3, minmax(18rem, 1fr))",
-    gap: "20px",
-
-  };
 
   const renderSkeleton = () => {
     return (
@@ -71,9 +63,9 @@ const NewsitemSkeleton = ({ mode, count = 6 }) => {
   };
 
   return (
-    <div style={containerStyle}>
+    <div className="row">
       {Array(count).fill().map((_, index) => (
-        <div key={index}>
+        <div className="col md-4" key={index}>
           {renderSkeleton()}
         </div>
       ))}

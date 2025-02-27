@@ -9,14 +9,14 @@ const Newsitem = (props) => {
       color: mode === "dark" ? "#fff" : "#001121",
       backgroundColor: mode === "dark" ? "#001121" : "#fff",
       border: mode === "dark" ? "1px solid white" : "1px solid #001121",
-      width: "18rem",
+      width: "20rem",
       height: "430px",
       margin: "20px",
     };
     const imgstyle = {
       color: mode === "dark" ? "#fff" : "#001121",
       backgroundColor: mode === "dark" ? "#001121" : "#fff",
-      width: "17.8rem",
+      width: "19.9rem",
       height: "200px",
     };
     return (
