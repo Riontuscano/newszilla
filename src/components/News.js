@@ -3,6 +3,7 @@ import Newsitem from "./Newsitem";
 import "../css/navbar.css";
 import Spinner from "./Spinner";
 import InfiniteScroll from "react-infinite-scroll-component";
+import NewsitemSkeleton from "./Skeleton";
 
 const News = ({ category, apikey, pageSize, setProgress, mode }) => {
   const [articles, setArticles] = useState([]);
@@ -56,12 +57,12 @@ const News = ({ category, apikey, pageSize, setProgress, mode }) => {
       <h2 className="top-heading text-center" style={styleh} >
         Today's News - Know all about Today's Top {`${category.charAt(0).toUpperCase() + category.slice(1)}`} Topics
       </h2>
-      {loading && <Spinner />}
+      {loading && <NewsitemSkeleton/>}
       <InfiniteScroll
         dataLength={articles.length}
         next={fetchMoreData}
         hasMore={articles.length !== totalResult}
-        loader={<Spinner />}
+        loader={<NewsitemSkeleton />}
       >
         <div className="row" style={style}>
           {articles.length > 0 ? (
