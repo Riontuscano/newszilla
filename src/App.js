@@ -6,14 +6,16 @@ import News from "./components/News";
 import LoadingBar from "react-top-loading-bar";
 
 const App = () => {
-  const [mode,setMode] = useState("light")
-  const [icon,setIcon] = useState("moon")
+  const [mode,setMode] = useState( localStorage.getItem("theme") || "light");
+  document.body.style.backgroundColor = localStorage.getItem("theme") == "dark" ? "#001121" : "#fff";
+  const [icon,setIcon] = useState( localStorage.getItem("theme") == "dark" ? "moon" : "sun" );
   const [progress,setProgress] = useState(0)
 
 
   const toggleMode = () => {
     const newMode = mode === "light" ? "dark" : "light";
     const newIcon = icon === "moon" ? "sun" : "moon";
+    localStorage.setItem("theme",newMode);
     setIcon(newIcon);
     setMode(newMode);
     document.body.style.backgroundColor = newMode === "dark" ? "#001121" : "#fff";

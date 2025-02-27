@@ -57,12 +57,12 @@ const News = ({ category, apikey, pageSize, setProgress, mode }) => {
       <h2 className="top-heading text-center" style={styleh} >
         Today's News - Know all about Today's Top {`${category.charAt(0).toUpperCase() + category.slice(1)}`} Topics
       </h2>
-      {loading && <NewsitemSkeleton/>}
+      {loading && <NewsitemSkeleton mode={mode} />}
       <InfiniteScroll
         dataLength={articles.length}
         next={fetchMoreData}
         hasMore={articles.length !== totalResult}
-        loader={<NewsitemSkeleton />}
+        loader={<NewsitemSkeleton mode={mode} />}
       >
         <div className="row" style={style}>
           {articles.length > 0 ? (
