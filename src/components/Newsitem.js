@@ -19,6 +19,9 @@ const Newsitem = (props) => {
       width: "19.9rem",
       height: "200px",
     };
+    const datestyle = {
+      color: mode === "dark" ? "#fff" : "#001121",
+    }
     return (
       <div>
         <div className="card" style={style}>
@@ -34,8 +37,8 @@ const Newsitem = (props) => {
             <a href={newurl} target="_blank" rel="noreferrer" className="btn btn-sm btn-primary">
               Read more
             </a>
-            <p class="card-text mt-1">
-              <small class="text-body-secondary">- {!author ? "unknown":author} on {date}</small>
+            <p className="card-text mt-1">
+              <small style={datestyle} className="date">- {!author ? "unknown":author} on {date}</small>
             </p>
          
           </div>
